@@ -28,68 +28,20 @@
 	color: #ffffff;
 }
 
-.lt {
+.home {
 	position: relative;
 	float: left;
-	margin-top: 60px;
-	width: 49%;
-	height: 400px;
-	background: -webkit-linear-gradient(top left, white, red, white); 
-    background: -o-linear-gradient(bottom right, white, red, white); 
-    background: -moz-linear-gradient(bottom right, white, red, white);
-    background: linear-gradient(to bottom right, white, red, white); 
+	margin-top: 35px;
 	margin-bottom: 10px;
-	color:black;
+	width: 100%;
+	height: inherit;
 	text-align:center;
-	border-radius:25px;
 }
 
-.rt {
-	position: relative;
-	float: right;
-	margin-top: 60px;
-	width: 49%;
-	height: 400px;
-	background: -webkit-linear-gradient(top right, white, green, white); 
-    background: -o-linear-gradient(bottom left, white, green, white); 
-    background: -moz-linear-gradient(bottom left, white, green, white);
-    background: linear-gradient(to bottom left, white, green, white); 
-	margin-bottom: 10px;
-	color:black;
-	text-align:center;
-	border-radius:25px;
-}
-
-.lb {
-	position: relative;
-	float: left;
-	margin-top: 20px;
-	width: 49%;
-	height: 400px;
-	background: -webkit-linear-gradient(bottom left, white, yellow, white); 
-    background: -o-linear-gradient(top right, white, yellow, white); 
-    background: -moz-linear-gradient(top right, white, yellow, white);
-    background: linear-gradient(to top right, white, yellow, white); 
-	margin-bottom: 10px;
-	color:black;
-	text-align:center;
-	border-radius:25px;
-}
-
-.rb {
-	position: relative;
-	float: right;
-	margin-top: 20px;
-	width: 49%;
-	height: 400px;
-	background: -webkit-linear-gradient(bottom right, white, blue, white); 
-    background: -o-linear-gradient(top left, white, blue, white); 
-    background: -moz-linear-gradient(top left, white, blue, white);
-    background: linear-gradient(to top left, white, blue, white); 
-	margin-bottom: 10px;
-	color:black;
-	text-align:center;
-	border-radius:25px;
+.slideshow {
+	width: 100%;
+	height: inherit;
+	-webkit-filter: opacity(1);
 }
 
 #footer {
@@ -477,17 +429,17 @@ h3 {
 	-webkit-filter:opacity(1);
 }
 
-.projectinfo5 p a {
+.projectinfo7 p a {
 	color: blue;
 	text-decoration:none;
 }
 
-.projectinfo5 p a:hover {
+.projectinfo7 p a:hover {
 	color: blue;
 	text-decoration:underline;
 }
 
-.projectimage5 img{
+.projectimage7 img{
 	-webkit-filter:opacity(1);
 }
 

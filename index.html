@@ -1,40 +1,40 @@
-<!DOCTYPE html>	
+<!DOCTYPE html>
 <html>
-	
+
 	<head>
 	    <link rel="stylesheet" type="text/css" href="Jagarlamudi.main.css">	</head>
-	
+
 	<body>
 		<div class="header">
 			<p id="name">Harsha Jagarlamudi</p>
 			<p id="email">
-				<a class="active" href="index.html">Home</a>  
-				<a href="Jagarlamudi.Projects.html">Projects</a>  
-				<a href="Jagarlamudi.Resume.html">Resume</a>  
-				<a href="Jagarlamudi.Aboutme.html">About Me</a>  
+				<a class="active" href="index.html">Home</a>
+				<a href="Jagarlamudi.Projects.html">Projects</a>
+				<a href="Jagarlamudi.Resume.html">Work Experience</a>  
+				<a href="Jagarlamudi.Aboutme.html">About Me</a>
 				<a href="Jagarlamudi.Contactme.html">Contact Me</a>
 			</p>
 		</div>
-		
+
 		<div class="home">
-			<img class="slideshow" src="https://engineering-portfolio-fluffy2overlord.c9users.io/Engineering_Portfolio/Slideshow/1.jpg">
-			<img class="slideshow" src="https://engineering-portfolio-fluffy2overlord.c9users.io/Engineering_Portfolio/Slideshow/2.PNG">
+			<img class="slideshow" src="Engineering_Portfolio/Slideshow/1.jpg">
+			<img class="slideshow" src="Engineering_Portfolio/Slideshow/2.PNG">
 		</div>
-		
+
 		<script>
 			var myIndex = 0;
 			carousel();
 
-			function carousel() {	
+			function carousel() {
 				var i;
     			var x = document.getElementsByClassName("slideshow");
     			for (i = 0; i < x.length; i++) {
-    				x[i].style.display = "none";  
+    				x[i].style.display = "none";
     			}
     			myIndex++;
-    			if (myIndex > x.length) {myIndex = 1}    
-    			x[myIndex-1].style.display = "block";  
-    			setTimeout(carousel, 3000); 			
+    			if (myIndex > x.length) {myIndex = 1}
+    			x[myIndex-1].style.display = "block";
+    			setTimeout(carousel, 3000);
 			}
 		</script>
 	</body>

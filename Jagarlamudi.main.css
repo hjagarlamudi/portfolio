@@ -126,9 +126,9 @@ body {
 	color:black;
 	text-align:center;
 	width:88%;
-	-webkit-text-fill-color: black; 
+	-webkit-text-fill-color: black;
     -webkit-text-stroke-width: 0.5px;
-    -webkit-text-stroke-color: black; 
+    -webkit-text-stroke-color: black;
 	border-radius:10px;
 	padding-left:100px;
 	padding-right:100px;
@@ -168,7 +168,7 @@ p {
 }
 
 .res  {
-	height: 1300px;
+	height: 1800px;
 }
 
 .res iframe {
@@ -445,6 +445,6 @@ h3 {
 
 .projectimage6 .projectimage6sub img{
 	-ms-transform: rotate(180deg);
-    -webkit-transform: rotate(180deg); 
+    -webkit-transform: rotate(180deg);
     transform: rotate(180deg);
 }

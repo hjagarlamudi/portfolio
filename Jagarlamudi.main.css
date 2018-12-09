@@ -365,7 +365,7 @@ h3 {
 }
 
 .pheight {
-	height: 5500px;
+	height: 6250px;
 }
 
 .projectinfo1 p a {
@@ -466,17 +466,17 @@ h3 {
 	-webkit-filter:opacity(1);
 }
 
-.projectinfo2 p a {
+.projectinfo8 p a {
 	color: blue;
 	text-decoration:none;
 }
 
-.projectinfo2 p a:hover {
+.projectinfo8 p a:hover {
 	color: blue;
 	text-decoration:underline;
 }
 
-.projectimage2 img{
+.projectimage8 img{
 	-webkit-filter:opacity(1);
 }
 

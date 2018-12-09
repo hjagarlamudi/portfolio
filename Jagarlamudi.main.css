@@ -341,6 +341,29 @@ h3 {
 	padding-top:350px;
 }
 
+.projectinfo6 {
+	position: relative;
+	margin-top: 20px;
+	float: left;
+	width: 49%;
+	height: 400px;
+	margin-bottom: 10px;
+	text-align:left;
+	border-radius:25px;
+	padding-top:350px;
+}
+.projectimage6 {
+	position: relative;
+	margin-top: 20px;
+	float: right;
+	width: 49%;
+	height: 400px;
+	margin-bottom: 10px;
+	text-align:left;
+	border-radius:25px;
+	padding-top:350px;
+}
+
 .pheight {
 	height: 5500px;
 }
@@ -440,6 +463,20 @@ h3 {
 }
 
 .projectimage7 img{
+	-webkit-filter:opacity(1);
+}
+
+.projectinfo2 p a {
+	color: blue;
+	text-decoration:none;
+}
+
+.projectinfo2 p a:hover {
+	color: blue;
+	text-decoration:underline;
+}
+
+.projectimage2 img{
 	-webkit-filter:opacity(1);
 }
 

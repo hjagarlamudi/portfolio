@@ -364,8 +364,77 @@ h3 {
 	padding-top:350px;
 }
 
+.projectinfo9 {
+	position: relative;
+	margin-top: 20px;
+	float: right;
+	width: 49%;
+	height: 400px;
+	margin-bottom: 10px;
+	text-align:left;
+	border-radius:25px;
+	padding-top:350px;
+}
+.projectimage9 {
+	position: relative;
+	margin-top: 20px;
+	float: left;
+	width: 49%;
+	height: 400px;
+	margin-bottom: 10px;
+	text-align:left;
+	border-radius:25px;
+	padding-top:350px;
+}
+
+.projectinfo10 {
+	position: relative;
+	margin-top: 20px;
+	float: left;
+	width: 49%;
+	height: 400px;
+	margin-bottom: 10px;
+	text-align:left;
+	border-radius:25px;
+	padding-top:350px;
+}
+.projectimage10 {
+	position: relative;
+	margin-top: 20px;
+	float: right;
+	width: 49%;
+	height: 400px;
+	margin-bottom: 10px;
+	text-align:left;
+	border-radius:25px;
+	padding-top:350px;
+}
+
+.projectinfo11 {
+	position: relative;
+	margin-top: 20px;
+	float: right;
+	width: 49%;
+	height: 400px;
+	margin-bottom: 10px;
+	text-align:left;
+	border-radius:25px;
+	padding-top:350px;
+}
+.projectimage11 {
+	position: relative;
+	margin-top: 20px;
+	float: left;
+	width: 49%;
+	height: 400px;
+	margin-bottom: 10px;
+	text-align:left;
+	border-radius:25px;
+	padding-top:350px;
+}
+
 .pheight {
-	height: 6250px;
+	height: 10000px;
 }
 
 .projectinfo1 p a {
@@ -477,6 +546,48 @@ h3 {
 }
 
 .projectimage8 img{
+	-webkit-filter:opacity(1);
+}
+
+.projectinfo9 p a {
+	color: blue;
+	text-decoration:none;
+}
+
+.projectinfo9 p a:hover {
+	color: blue;
+	text-decoration:underline;
+}
+
+.projectimage9 img{
+	-webkit-filter:opacity(1);
+}
+
+.projectinfo10 p a {
+	color: blue;
+	text-decoration:none;
+}
+
+.projectinfo10 p a:hover {
+	color: blue;
+	text-decoration:underline;
+}
+
+.projectimage10 img{
+	-webkit-filter:opacity(1);
+}
+
+.projectinfo11 p a {
+	color: blue;
+	text-decoration:none;
+}
+
+.projectinfo11 p a:hover {
+	color: blue;
+	text-decoration:underline;
+}
+
+.projectimage11 img{
 	-webkit-filter:opacity(1);
 }
 

@@ -82,7 +82,6 @@ a:active {
 
 img {
   height:325px;
-  width:500px;
   padding-top:25px;
   transition: 1s ease;
   -webkit-filter: opacity(0.5);
@@ -426,7 +425,7 @@ h3 {
 }
 
 .pheight {
-	height: auto;
+	height: 9000px;
 }
 
 .projectinfo1 p a {

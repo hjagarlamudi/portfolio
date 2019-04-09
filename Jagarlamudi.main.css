@@ -166,6 +166,7 @@ p {
 
 .res  {
 	height: auto;
+	text-align: left;
 }
 
 h3 {
@@ -425,7 +426,7 @@ h3 {
 }
 
 .pheight {
-	height: 8000px;
+	height: auto;
 }
 
 .projectinfo1 p a {

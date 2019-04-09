@@ -81,6 +81,7 @@ a:active {
 }
 
 img {
+  height:325px;
   width:500px;
   padding-top:25px;
   transition: 1s ease;
@@ -145,8 +146,8 @@ body {
 }
 
 .aboutimg {
-	width: 300px;
-	height: 300px;
+	width: 350px;
+	height: 350px;
 	float: left;
 }
 
@@ -178,6 +179,7 @@ h3 {
 	margin-top: 20px;
 	float: right;
 	width: 49%;
+	height: 400px;
 	margin-bottom: 10px;
 	text-align:left;
 	border-radius:25px;
@@ -187,6 +189,7 @@ h3 {
 	margin-top: 20px;
 	float: left;
 	width: 49%;
+	height: 400px;
 	margin-bottom: 10px;
 	text-align:left;
 	border-radius:25px;
@@ -197,6 +200,7 @@ h3 {
 	margin-top: 20px;
 	float: left;
 	width: 49%;
+	height: 400px;
 	margin-bottom: 10px;
 	text-align:left;
 	border-radius:25px;
@@ -207,6 +211,7 @@ h3 {
 	margin-top: 20px;
 	float: right;
 	width: 49%;
+	height: 400px;
 	margin-bottom: 10px;
 	text-align:left;
 	border-radius:25px;
@@ -218,6 +223,7 @@ h3 {
 	margin-top: 20px;
 	float: right;
 	width: 49%;
+	height: 400px;
 	margin-bottom: 10px;
 	text-align:left;
 	border-radius:25px;
@@ -228,6 +234,7 @@ h3 {
 	margin-top: 20px;
 	float: left;
 	width: 49%;
+	height: 400px;
 	margin-bottom: 10px;
 	text-align:left;
 	border-radius:25px;
@@ -239,6 +246,7 @@ h3 {
 	margin-top: 20px;
 	float: left;
 	width: 49%;
+	height: 400px;
 	margin-bottom: 10px;
 	text-align:left;
 	border-radius:25px;
@@ -249,6 +257,7 @@ h3 {
 	margin-top: 20px;
 	float: right;
 	width: 49%;
+	height: 400px;
 	margin-bottom: 10px;
 	text-align:left;
 	border-radius:25px;
@@ -260,6 +269,7 @@ h3 {
 	margin-top: 20px;
 	float: right;
 	width: 49%;
+	height: 400px;
 	margin-bottom: 10px;
 	text-align:left;
 	border-radius:25px;
@@ -270,6 +280,7 @@ h3 {
 	margin-top: 20px;
 	float: left;
 	width: 49%;
+	height: 400px;
 	margin-bottom: 10px;
 	text-align:left;
 	border-radius:25px;
@@ -281,6 +292,7 @@ h3 {
 	margin-top: 20px;
 	float: left;
 	width: 49%;
+	height: 400px;
 	margin-bottom: 10px;
 	text-align:left;
 	border-radius:25px;
@@ -291,6 +303,7 @@ h3 {
 	margin-top: 20px;
 	float: right;
 	width: 49%;
+	height: 400px;
 	margin-bottom: 10px;
 	text-align:left;
 	border-radius:25px;
@@ -302,6 +315,7 @@ h3 {
 	margin-top: 20px;
 	float: right;
 	width: 49%;
+	height: 400px;
 	margin-bottom: 10px;
 	text-align:left;
 	border-radius:25px;
@@ -312,6 +326,7 @@ h3 {
 	margin-top: 20px;
 	float: left;
 	width: 49%;
+	height: 400px;
 	margin-bottom: 10px;
 	text-align:left;
 	border-radius:25px;
@@ -323,6 +338,7 @@ h3 {
 	margin-top: 20px;
 	float: left;
 	width: 49%;
+	height: 400px;
 	margin-bottom: 10px;
 	text-align:left;
 	border-radius:25px;
@@ -333,6 +349,7 @@ h3 {
 	margin-top: 20px;
 	float: right;
 	width: 49%;
+	height: 400px;
 	margin-bottom: 10px;
 	text-align:left;
 	border-radius:25px;
@@ -344,6 +361,7 @@ h3 {
 	margin-top: 20px;
 	float: right;
 	width: 49%;
+	height: 400px;
 	margin-bottom: 10px;
 	text-align:left;
 	border-radius:25px;
@@ -354,6 +372,7 @@ h3 {
 	margin-top: 20px;
 	float: left;
 	width: 49%;
+	height: 400px;
 	margin-bottom: 10px;
 	text-align:left;
 	border-radius:25px;
@@ -365,6 +384,7 @@ h3 {
 	margin-top: 20px;
 	float: left;
 	width: 49%;
+	height: 400px;
 	margin-bottom: 10px;
 	text-align:left;
 	border-radius:25px;
@@ -375,6 +395,7 @@ h3 {
 	margin-top: 20px;
 	float: right;
 	width: 49%;
+	height: 400px;
 	margin-bottom: 10px;
 	text-align:left;
 	border-radius:25px;
@@ -386,6 +407,7 @@ h3 {
 	margin-top: 20px;
 	float: right;
 	width: 49%;
+	height: 400px;
 	margin-bottom: 10px;
 	text-align:left;
 	border-radius:25px;
@@ -396,6 +418,7 @@ h3 {
 	margin-top: 20px;
 	float: left;
 	width: 49%;
+	height: 400px;
 	margin-bottom: 10px;
 	text-align:left;
 	border-radius:25px;

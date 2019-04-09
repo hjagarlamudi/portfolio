@@ -136,10 +136,6 @@ body {
 	border: 2px solid black;
 }
 
-.contact {
-	height: 250px;
-}
-
 .aboutme {
 	width: 60%;
 	float: right;
@@ -151,6 +147,7 @@ body {
 
 .aboutimg {
 	width: 20%;
+	height: auto;
 	float: left;
 }
 
@@ -168,13 +165,7 @@ p {
 }
 
 .res  {
-	height: 1800px;
-}
-
-.res iframe {
-	width: 50%;
-	height: 1275px;
-	margin-top: 25px;
+	height: auto;
 }
 
 h3 {

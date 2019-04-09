@@ -144,7 +144,7 @@ body {
 }
 
 .aboutimg {
-	width: 20%;
+	width: auto;
 	float: left;
 }
 
@@ -401,7 +401,7 @@ h3 {
 }
 
 .pheight {
-	height: auto;
+	height: 9000px;
 }
 
 .projectinfo1 p a {

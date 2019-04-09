@@ -81,7 +81,6 @@ a:active {
 }
 
 img {
-  width:500px;
   padding-top:25px;
   transition: 1s ease;
   -webkit-filter: opacity(0.5);

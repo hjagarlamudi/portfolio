@@ -146,8 +146,8 @@ body {
 }
 
 .aboutimg {
-	width: 350px;
-	height: 350px;
+	width: 20%;
+	height: auto;
 	float: left;
 }
 

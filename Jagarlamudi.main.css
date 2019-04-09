@@ -82,6 +82,7 @@ a:active {
 
 img {
   height:325px;
+	width:500px;
   padding-top:25px;
   transition: 1s ease;
   -webkit-filter: opacity(0.5);
@@ -137,6 +138,7 @@ body {
 
 .aboutme {
 	width: 60%;
+	height: 600px;
 	float: right;
 }
 
@@ -145,8 +147,7 @@ body {
 }
 
 .aboutimg {
-	width: 250px;
-	height: 250px;
+	height: 500px;
 	float: left;
 }
 
